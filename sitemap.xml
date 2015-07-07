@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>http://graphlertech.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://graphlertech.com/cfd.php</loc>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://graphlertech.com/fea.php</loc>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://graphlertech.com/cad.php</loc>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://graphlertech.com/pdd.php</loc>
+  <priority>0.90</priority>
+</url>
+
+<url>
+  <loc>http://graphlertech.com/about-us.php</loc>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://graphlertech.com/contact-us.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://graphlertech.com/terms-conditioins.php</loc>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://graphlertech.com/privacy-policy.php</loc>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://graphlertech.com/sitemap.php</loc>
+  <priority>0.50</priority>
+</url>
+</urlset>
